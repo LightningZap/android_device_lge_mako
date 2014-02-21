@@ -25,6 +25,8 @@ TARGET_CPU_VARIANT := krait
 TARGET_MPDECISION_BOOST_SOCKET := /dev/socket/mpdecision/touchboost
 
 TARGET_KERNEL_CONFIG := mako_defconfig
+TARGET_KERNEL_SOURCE        := kernel/lge/mako-lz
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro
 
 TARGET_NO_BOOTLOADER := true
 
