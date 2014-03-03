@@ -133,4 +133,4 @@ HAVE_ADRENO_SOURCE:= false
 -include vendor/lge/mako/BoardConfigVendor.mk
 
 # LZ vendor scripts
-include vendor/lz-kernel/mako/lightningzap.mk
+-include vendor/lz-kernel/mako/lightningzap.mk
