@@ -40,8 +40,9 @@ BOARD_KERNEL_CMDLINE := console=ttyHSL0,115200,n8 androidboot.hardware=mako lpj=
 BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01600000
 
 # Try to build the kernel
-TARGET_KERNEL_SOURCE := kernel/google/msm
-TARGET_KERNEL_CONFIG := cyanogen_mako_defconfig
+TARGET_KERNEL_CONFIG := mako_defconfig
+TARGET_KERNEL_SOURCE := kernel/lge/mako-lz
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro
 
 BOARD_USES_ALSA_AUDIO:= true
 BOARD_USES_LEGACY_ALSA_AUDIO:= false
@@ -158,3 +159,6 @@ USE_DEVICE_SPECIFIC_CAMERA := true
 BOARD_HAS_NO_SELECT_BUTTON := true
 
 BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
+
+# LZ vendor scripts
+-include vendor/lz-kernel/mako/lightningzap.mk
