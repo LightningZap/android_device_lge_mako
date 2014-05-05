@@ -1,8 +1,0 @@
-[
-  {
-    "remote": "SlimRoms",
-    "repository": "kernel_lge_mako",
-    "target_path": "kernel/lge/mako",
-    "revision": "kk4.4"
-  }
-]
