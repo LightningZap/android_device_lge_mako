@@ -18,5 +18,10 @@
    "repository":  "ValidusAOSP/kernel_lge_mako-lz",
    "target_path": "kernel/lge/mako-lz",
    "branch":      "kk4.4"
+ },
+ {
+   "repository":  "LightningZap/vendor_lz-kernel",
+   "target_path": "vendor/lz-kernel",
+   "branch":      "cm-11.0"
  }
 ]
