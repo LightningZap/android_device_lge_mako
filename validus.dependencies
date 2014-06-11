@@ -5,9 +5,9 @@
    "branch":      "kk4.4"
  },
  {
-   "repository":  "SlimRoms/proprietary_vendor_broadcom",
+   "repository":  "GzRoms-Redux/proprietary_vendor_broadcom",
    "target_path": "vendor/broadcom",
-   "branch":      "kk4.4"
+   "branch":      "kitkat"
  },
  {
    "repository":  "GzRoms-Redux/kernel_lge_mako-lz",
