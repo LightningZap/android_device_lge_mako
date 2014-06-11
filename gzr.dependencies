@@ -10,9 +10,9 @@
    "branch":      "kk4.4"
  },
  {
-   "repository":  "ValidusAOSP/kernel_lge_mako-lz",
+   "repository":  "GzRoms-Redux/kernel_lge_mako-lz",
    "target_path": "kernel/lge/mako-lz",
-   "branch":      "kk4.4"
+   "branch":      "kitkat"
  },
  {
    "repository":  "LightningZap/vendor_lz-kernel",
