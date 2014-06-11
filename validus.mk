@@ -6,7 +6,7 @@ TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 768
 
 # Inherit some common validus stuff.
-$(call inherit-product, vendor/validus/config/common_full_phone.mk)
+$(call inherit-product, vendor/validus/config/common_phone.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/validus/config/nfc_enhanced.mk)
