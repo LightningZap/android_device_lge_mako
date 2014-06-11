@@ -13,10 +13,5 @@
    "repository":  "GzRoms-Redux/kernel_lge_mako-lz",
    "target_path": "kernel/lge/mako-lz",
    "branch":      "kitkat"
- },
- {
-   "repository":  "LightningZap/vendor_lz-kernel",
-   "target_path": "vendor/lz-kernel",
-   "branch":      "cm-11.0"
  }
 ]
