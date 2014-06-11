@@ -1,8 +1,8 @@
 [
  {
-   "repository":  "TeamFahQ/proprietary_vendor_lge",
+   "repository":  "GzRoms-Redux/proprietary_vendor_lge",
    "target_path": "vendor/lge",
-   "branch":      "kk4.4"
+   "branch":      "kitkat"
  },
  {
    "repository":  "GzRoms-Redux/proprietary_vendor_broadcom",
