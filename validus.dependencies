@@ -1,16 +1,16 @@
 [
  {
-   "repository":  "GzRoms-Redux/proprietary_vendor_lge",
+   "repository":  "GzRoms-Redux/android_proprietary_vendor_lge",
    "target_path": "vendor/lge",
    "branch":      "kitkat"
  },
  {
-   "repository":  "GzRoms-Redux/proprietary_vendor_broadcom",
+   "repository":  "GzRoms-Redux/android_proprietary_vendor_broadcom",
    "target_path": "vendor/broadcom",
    "branch":      "kitkat"
  },
  {
-   "repository":  "GzRoms-Redux/kernel_lge_mako-lz",
+   "repository":  "GzRoms-Redux/android_kernel_lge_mako-lz",
    "target_path": "kernel/lge/mako-lz",
    "branch":      "kitkat"
  }
